@@ -3,7 +3,8 @@
 - 🎓 I'm a university student studying **Software Engineering**.  
 - 📚 Currently advancing my knowledge through academic courses and professional certifications.
 - 💻 I work on projects with **C++**, **JavaScript/React Native**, **C#**, and I’m always improving my **software engineering fundamentals**.  
-- ⚡ Interested in **mobile app development**, **big data concepts**, and **practical system design**.  
+- ⚡ Interested in **mobile app development**, **big data concepts**, and **practical system design**.
+-  !!! The projects on my GitHub are more complex than they may appear. Each one highlights different aspects of my software engineering skills, and most of them were developed independently by me.
 
 
 # 📊 GitHub Stats:
